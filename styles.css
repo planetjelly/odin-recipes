@@ -10,8 +10,38 @@
 
 }
 
-.container{
+.link.container{
     text-align: center;
-    
+}
 
+h2{
+    background-color: #2a2420;
+    color:#D9D8D5;
+    outline: 1px solid #2a2420;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.equipment-list{
+    display: inline-block;
+    border: 1px solid #896a58;
+    padding: 3px;
+    width: 120px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #acab9e;
+    color: #2a2420;
+    
+}
+
+.s-container{
+    border: 1px solid #2a2420;
+    background-color: #567257;
+    color: #D9D8D5;
+    margin-top: 10px;
+}
+
+.return-home{
+    background-color: #acab9e;
 }
